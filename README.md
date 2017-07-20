@@ -1,17 +1,16 @@
 # Tetris
-Jogo Tetris - em Assembly Language
+Game Tetris - in Assembly Language
 
-Parâmetros Bitmap Display:
+Bitmap Display Parameters:
   1.  Unit (Width : Height) in Pixels:
         (4 : 4);
-        (2 : 2); ou
+        (2 : 2); or
         (1 : 1).
       
   2.  Display (Width : Height) in Pixels:
-        (512 : 1024) para (4 : 4);
-        (256 : 512) para (2 : 2); ou
-        (128 : 256) para (1 : 1).
+        (512 : 1024) for (4 : 4);
+        (256 : 512) for (2 : 2); or
+        (128 : 256) for (1 : 1).
       
   3.  Base address for display:
         0x10040000 (heap)
-      
