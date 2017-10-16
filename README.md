@@ -15,4 +15,4 @@
     - 0x10040000 (heap)
 
 ## Preview:
-- Take a look at this project [here](https://www.youtube.com/watch?v=PZP4MoIPwAc)
+- Take a look at this project <a href="https://www.youtube.com/watch?v=PZP4MoIPwAc" target="_blank">here</a>
